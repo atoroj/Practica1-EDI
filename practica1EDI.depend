@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1650388870 source:e:\edi\practica1edi\src\clasificacion.cpp
+	"Clasificacion.h"
+	"Prueba.h"
+	<iostream>
+
+1650381520 e:\edi\practica1edi\include\clasificacion.h
+
+1650381732 e:\edi\practica1edi\include\prueba.h
+	<fstream>
+
+1650454584 source:e:\edi\practica1edi\src\prueba.cpp
+	"Prueba.h"
+	"Clasificacion.h"
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+
+1650392108 source:e:\edi\practica1edi\main.cpp
+	"Prueba.h"
+	"Clasificacion.h"
+	<iostream>
+
